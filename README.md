@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashley
 
-<!--
-**ajcogan/ajcogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a control systems engineer with a background in utility SCADA, telemetry, and industrial automation.
 
-Here are some ideas to get you started:
+I specialize in:
+- 🔌 **Protocol simulation & tooling** – Modbus, DNP3, H5000
+- 🛰️ **SCADA telemetry systems** – integration, testing, and diagnostics
+- 🦀 **Rust** + 🐍 **Python** – building fast, reliable tools for engineers
+- 🧠 **Simplifying legacy infrastructure** for critical industries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 Current Projects
+
+🛠️ **Rust-Based Modbus Simulator**  
+A lightweight, high-performance simulator to support testing and training for SCADA systems.
+
+🔍 **Protocol Analysis Tools**  
+Developing tooling for decoding and inspecting SCADA protocol traffic (Wireshark-style).
+
+---
+
+## 💡 What I'm Interested In
+
+- Building **real-time, testable simulation environments** for legacy protocols  
+- Helping engineers debug and test SCADA systems faster  
+- Contributing to **open-source tooling** for industrial control
+
+---
+
+## 🧰 Selected Repositories
+
+| Project | Description |
+|--------|-------------|
+|🦀 [modsim-rs](https://github.com/YOURUSERNAME/modsim-rs) | Rust-based Modbus simulator for SCADA testing |
+| 🧪 dnp3-rs (WIP)| Stream-based frame parser for DNP3 protocol (not yet public)|
+| 🛰️ h5000-inspector (Planned)| Toolkit for visualizing H5000 traffic |
+
+*→ More projects coming soon as I clean up and publish prototypes.*
+
+---
+
+## 🧭 Background
+
+I've managed and delivered over ~$10M in SCADA/control systems projects and developed tools for reporting, telemetry testing, and system integration. My recent focus is creating reusable tooling for engineers working in critical infrastructure.
+
+---
+
+## 📬 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/ashley-cogan-mieaust-4ba12a39)
+- [cogan.au](https://www.cogan.au) – personal site & consulting profile
+- GitHub: @ajcogan
+
+---
+
+_Thanks for stopping by!_
+
