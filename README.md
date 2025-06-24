@@ -51,8 +51,8 @@ I've managed and delivered over ~$10M in SCADA/control systems projects and deve
 ## 📬 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/ashley-cogan-mieaust-4ba12a39)
-- [cogan.au](https://www.cogan.au) – personal site & consulting profile
-- GitHub: @ajcogan
+- [www.cogan.au](https://www.cogan.au) – personal site & consulting profile
+- GitHub: [@ajcogan](https://github.com/ajcogan/ajcogan)
 
 ---
 
