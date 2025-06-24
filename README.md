@@ -32,9 +32,11 @@ Developing tooling for decoding and inspecting SCADA protocol traffic (Wireshark
 
 | Project | Description |
 |--------|-------------|
-|🦀 [modsim-rs](https://github.com/ajcogan/modsim-rs) (WIP)| Rust-based Modbus simulator for SCADA testing |
+| 🦀 [modsim-rs](https://github.com/ajcogan/modsim-rs) (WIP)| Rust-based Modbus simulator for SCADA testing |
 | 🧪 [simple-packets](https://github.com/ajcogan/simple-packets) |  Lightweight educational tool that simulates packet flow over time |
-| 🛰️ h5000-inspector (Planned)| Toolkit for visualizing H5000 traffic |
+| 📡 dnp3-inspector (Planned)| Toolkit for visualizing DNP3 traffic |
+| 🛰️ h5000-inspector (Idea)| Toolkit for visualizing H5000 traffic |
+| 🔍 mms-iccp-inspector (Idea)| Toolkit for visualizing ICCP/MMS traffic |
 
 *→ More projects coming soon as I clean up and publish prototypes.*
 
